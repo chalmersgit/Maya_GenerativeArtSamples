@@ -1,0 +1,1 @@
+Provided are various Python scripts that will generate some interesting structures in Maya.
